@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
 
 html,
 body,
@@ -99,4 +99,8 @@ video {
 
 .card-deck {
     margin: 60px;
+}
+
+h1 {
+    font-family: 'Vina Sans', cursive;
 }
